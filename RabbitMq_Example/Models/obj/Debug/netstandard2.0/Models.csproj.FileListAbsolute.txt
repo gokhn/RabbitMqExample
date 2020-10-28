@@ -1,0 +1,8 @@
+E:\GokhanGungor\C#Tutorials\RabbitMq_First_Example\RabbitMq_Example\Models\bin\Debug\netstandard2.0\Models.deps.json
+E:\GokhanGungor\C#Tutorials\RabbitMq_First_Example\RabbitMq_Example\Models\bin\Debug\netstandard2.0\Models.dll
+E:\GokhanGungor\C#Tutorials\RabbitMq_First_Example\RabbitMq_Example\Models\bin\Debug\netstandard2.0\Models.pdb
+E:\GokhanGungor\C#Tutorials\RabbitMq_First_Example\RabbitMq_Example\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+E:\GokhanGungor\C#Tutorials\RabbitMq_First_Example\RabbitMq_Example\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+E:\GokhanGungor\C#Tutorials\RabbitMq_First_Example\RabbitMq_Example\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+E:\GokhanGungor\C#Tutorials\RabbitMq_First_Example\RabbitMq_Example\Models\obj\Debug\netstandard2.0\Models.dll
+E:\GokhanGungor\C#Tutorials\RabbitMq_First_Example\RabbitMq_Example\Models\obj\Debug\netstandard2.0\Models.pdb
